@@ -30,6 +30,7 @@ body {
     filter: brightness(200%);
     overflow: hidden;
     position: fixed;
+    border: 6px solid black;
 }
 .gradient{
     background: linear-gradient(114.44637446788136deg, rgba(245, 167, 128,1) 4.927083333333334%,rgba(241, 43, 92,1) 97.84374999999999%);
